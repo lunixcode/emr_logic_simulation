@@ -1,0 +1,1 @@
+# Example script for passcode validation
